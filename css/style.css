@@ -9,3 +9,12 @@
 #logo {
     height: 75px;
 }
+
+.btn-success {
+    height: 21px;
+    width: 84px;
+    font-size: 12px;
+    font-weight: 700;
+    padding-left: 10px;
+    padding-top: 0px;
+}
