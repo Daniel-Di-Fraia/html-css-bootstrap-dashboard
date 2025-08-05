@@ -10,6 +10,7 @@
     height: 75px;
 }
 
+/* pulsanti main stato */
 .btn-success {
     height: 21px;
     width: 84px;
@@ -43,4 +44,17 @@
     padding-top: 0px;
     color: white;
     padding-right: 4px;
+}
+
+/* pulsante azioni */
+.btn-outline-secondary {
+    width: 40px;
+    height: 40px;
+}
+
+
+/* problema allineamento */
+tr .row {
+    margin-left: 0;
+    margin-right: 0;
 }
